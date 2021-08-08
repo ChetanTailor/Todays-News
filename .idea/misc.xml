@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Asus/.gradle/caches/transforms-2/files-2.1/77c7b97873973e149b09819f46c0a153/appcompat-1.3.0/res/layout/support_simple_spinner_dropdown_item.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/Asus/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_spinner_dropdown_item.xml" value="0.24818840579710144" />
+        <entry key="..\:/WORKSPACE/AndridStudioProjects/TodaysNews/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/WORKSPACE/AndridStudioProjects/TodaysNews/app/src/main/res/layout/cardviewpractice.xml" value="0.24818840579710144" />
+        <entry key="..\:/WORKSPACE/AndridStudioProjects/TodaysNews/app/src/main/res/layout/newscard.xml" value="0.1" />
+        <entry key="..\:/WORKSPACE/AndridStudioProjects/TodaysNews/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
